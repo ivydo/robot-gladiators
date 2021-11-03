@@ -9,8 +9,10 @@ var enemyName = "Roborto";
 var enemyHealth = 50;
 var enemyAttack = 12;
 
-var fight = function() {
+// create function
+var fight = function () {
   window.alert("Welcome to Robot Gladiators!");
 };
 
+// execute function
 fight();
